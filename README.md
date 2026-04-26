@@ -90,6 +90,6 @@ O projeto tem como objetivo simular o funcionamento básico de uma biblioteca:
 
 ---
 
-Feito por: Vitor Domingos e Kauê Dylon
+Feito por: Vitor Domingos, Kauê Dylon e Luiz Felipe
 
 ---
